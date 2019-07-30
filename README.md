@@ -14,8 +14,8 @@ npm run build
 npm start
 ```
 
-## Contributing
+This is an interactive tic-tac-toe game that:
 
-* Please follow the AirBnB styleguide.
+lets you play tic-tac-toe, indicates when one player has won the game, stores the history of moves during the game, and allows players to jump back in time to see older versions of the game board.
 
-* Open a pull request, all contributions will be considered.
+#Setup To run the game, clone the repo, and run npm install, npm run build, and then npm start.
